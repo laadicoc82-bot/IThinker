@@ -1,4 +1,1 @@
-import time
-nig=("waiting for Niggers msg")
-print(nig)
-time.sleep(10)
+
